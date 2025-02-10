@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Power BI projects.<br>👯‍♂️ Let's Collaborate for upskills 🤝.<br>🌱 Currently learning ML from scratch .<br>⚡ Keen learner .
+ Let's Collaborate for upskills 🤝.<br>🌱 Currently learning ML .<br>⚡ Keen learner .
 
 
 ## 🌐 Socials:
